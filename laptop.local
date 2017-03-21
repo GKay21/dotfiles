@@ -2,6 +2,7 @@ brew bundle --file=- <<EOF
 # Productivity
 cask 'spectacle'
 cask 'skype'
+cask 'slack'
 
 # Development
 brew 'git-flow'
